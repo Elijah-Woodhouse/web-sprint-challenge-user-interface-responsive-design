@@ -46,9 +46,9 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 ## Minimum Viable Product
 ​
 Your finished project must include all of the following requirements:
- 
+
 ​
-### Responsive Design 
+### Responsive Design
 ​
 Before you jump in, take 10 minutes to review the design files. Take time to see how the home and menu pages are built. Think about the main concepts of Flexbox and how you could use rows or columns to simplify your code. A good developer will have a gameplan for both screen sizes before they type a single line of code. You could even draw on the design files or make your own simple wireframe with labels.
 ​
@@ -69,9 +69,9 @@ You **must** use the Google Chrome developer tools during your HTML/CSS implemen
 ​
 Review the provided design file for the home page.
 ​
-* [ ] Build the HTML and CSS to create the missing header and footer sections.
-* [ ] Link the h1 page title to the [index.html](index.html) page.
-* [ ] Link the `Menu` navigation item to the [menu.html](menu.html) page.
+* [x] Build the HTML and CSS to create the missing header and footer sections.
+* [x] Link the h1 page title to the [index.html](index.html) page.
+* [x] Link the `Menu` navigation item to the [menu.html](menu.html) page.
 * [ ] Create social media buttons on header for [Facebook](https://fontawesome.com/search?q=facebook&s=solid%2Cbrands), [Twitter](https://fontawesome.com/search?q=twitter&s=solid%2Cbrands), and [Instagram](https://fontawesome.com/search?q=instagram&s=solid%2Cbrands) with the linked icons.
 * [ ] Build the rest of the home page layout to match the design. Much of it has already been implemented; you should only need to fix the header, footer, and gallery portions.
 ​
@@ -85,7 +85,7 @@ Dark transparency: background-color: rgb(0, 4, 17, .8);
 ​
 Review the provided design files for the menu page.
 ​
-* [ ] Copy and paste your home page header and footer into the menu page.
+* [x] Copy and paste your home page header and footer into the menu page.
 * [ ] Update the header image with the menu page image.
 * [ ] Use the article element for the menu and a div inside of it; change the div's class to "menu-container"
 * [ ] Create a container for each section (e.g. drinks or entrees) with class "menu-section"
@@ -98,7 +98,7 @@ Light text: rgb(225, 239, 230);
 Dark background: rgb(0, 4, 17);
 Dark transparency: background-color: rgb(0, 4, 17, .8);
 ​
-Colors and fonts for mobile: 
+Colors and fonts for mobile:
 Dark text: rgb(0, 4, 17);
 Light background: rgb(225, 239, 230);
 Dark borders: rgb(0, 4, 17);
@@ -111,5 +111,5 @@ Dark borders: rgb(0, 4, 17);
 * [ ] Host on Netlify.
 ​
 ​
-## Extra Resources 
+## Extra Resources
 🦄 [Sprint Study Guide](https://bloomtech.notion.site/bloomtech/Unit-1-Sprint-3-Study-Guide-8769748b8c284f7095f6542fe24192a7)
